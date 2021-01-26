@@ -1,2 +1,5 @@
 # portscanner
-TCP Syn Scanner
+Port Scanner
+- Full TCP Scan
+- TCP Syn Scan with sockets
+- TCP Syn Scan with scapy
